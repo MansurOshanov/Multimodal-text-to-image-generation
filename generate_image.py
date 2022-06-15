@@ -191,8 +191,8 @@ prompts = "a small red block sitting on a large green block. "
 
 
 
-width =  300
-height = 300 
+width =  256
+height = 256 
 display_frequency =  50
 max_iterations = 1000
 
